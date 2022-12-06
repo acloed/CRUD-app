@@ -1,2 +1,2 @@
 # CRUD-app
-CRUD application PHP, PDO, POO, MySQL &amp; Bootstrap
+CRUD application PHP, PDO, OOP, MySQL &amp; Bootstrap
